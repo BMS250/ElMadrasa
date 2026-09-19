@@ -1,0 +1,6 @@
+@MyProject_HostAddress = http://madrasa.runasp.net
+
+GET {{MyProject_HostAddress}}/Absences/
+Accept: application/json
+
+###
