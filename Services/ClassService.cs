@@ -1,5 +1,6 @@
 ﻿using Microsoft.Extensions.Caching.Memory;
 using MyProject.Models;
+using MyProject.Models.DTOs;
 using MyProject.Repositories.IRepositories;
 using MyProject.Services.IServices;
 

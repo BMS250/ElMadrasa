@@ -6,6 +6,7 @@ using MyProject.Repositories.IRepositories;
 using MailKit.Net.Smtp;
 using System.Text.Json;
 using MyProject.Services.IServices;
+using MyProject.Models.DTOs;
 
 namespace MyProject.Controllers
 {

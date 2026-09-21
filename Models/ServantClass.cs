@@ -1,6 +1,7 @@
 ﻿using ManageData.Models;
 using Microsoft.AspNetCore.Identity;
 using MyProject.Models;
+using MyProject.Models.Enums;
 using System.ComponentModel.DataAnnotations.Schema;
 
 public class ServantClass

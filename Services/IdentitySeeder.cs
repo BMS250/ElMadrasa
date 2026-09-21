@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 
-namespace MyProject.Controllers
+namespace MyProject.Services
 {
     public static class IdentitySeeder
     {

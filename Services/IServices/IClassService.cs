@@ -1,4 +1,5 @@
 ﻿using MyProject.Models;
+using MyProject.Models.DTOs;
 
 namespace MyProject.Services.IServices
 {
