@@ -4,6 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 using MyProject.Data;
+using MyProject.Models.Enums;
 
 namespace MyProject.Models
 {

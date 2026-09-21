@@ -2,6 +2,7 @@
 using MyProject.Data;
 using MyProject.Models;
 using MyProject.Models.DTOs;
+using MyProject.Models.Enums;
 using MyProject.Repositories.IRepositories;
 
 namespace MyProject.Repositories

@@ -1,4 +1,6 @@
-﻿namespace MyProject.Models.DTOs
+﻿using MyProject.Models.Enums;
+
+namespace MyProject.Models.DTOs
 {
     public class StudentCard
     {

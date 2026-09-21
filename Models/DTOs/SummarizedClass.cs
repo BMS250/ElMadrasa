@@ -1,4 +1,4 @@
-﻿namespace MyProject.Models
+﻿namespace MyProject.Models.DTOs
 {
     public class SummarizedClass
     {

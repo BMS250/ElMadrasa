@@ -1,4 +1,4 @@
-﻿namespace MyProject.Models
+﻿namespace MyProject.Models.Enums
 {
     public enum Level
     {
